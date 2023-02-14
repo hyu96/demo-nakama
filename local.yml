@@ -2,3 +2,7 @@ logger:
   level: "debug"
 runtime:
   js_entrypoint: "build/index.js"
+database:
+  address: "postgres:testnakama@nakama.cejtub0sxnrj.us-east-1.rds.amazonaws.com:5432/postgres"
+console:
+  username: "huydq"
